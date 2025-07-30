@@ -42,6 +42,28 @@ class Employee:
 jeff = Employee("Jeff", 11020)
 jeff.setSalary(34000)
 
-print(f"Salary: {jeff.getSalary()}")
-print(f"Years to work: {jeff.years_to_work(45)}")
-        
+# print(f"Salary: {jeff.getSalary()}")
+# print(f"Years to work: {jeff.years_to_work(45)}")
+
+
+class A:
+
+    __dept = "Electronics"
+
+    def department(self):
+        print(f"{self.__dept} department")
+
+class B(A):
+
+    def department(self, dept):
+        self.__dept = dept
+        print(f"{self.__dept} department")
+
+a = A()
+a.department()
+
+b = B()
+b.department("Computer")
+
+
+print("Hello ", __name__)
