@@ -1,0 +1,144 @@
+
+Sr no.0 Title: Practices of an Agile Developer
+Subtitle: Working in the Real World
+Publised Date: 2006-04-04
+Description: These are the proven, effective agile practices that will make you a better developer. You'll learn pragmatic ways of approaching the development process and your personal coding techniques. You'll learn about your own attitudes, issues with working on a team, and how to best manage your learning, all in an iterative, incremental, agile style. You'll see how to apply each practice, and what benefits you can expect. Bottom line: This book will make you a better developer.
+Category: ['Computers']
+Country: IN
+Price: 1923.4
+
+
+Sr no.1 Title: Developer Testing
+Subtitle: Building Quality Into Software
+Publised Date: 2016
+Description: To build high-quality software, you need to write testable code. That's harder than it seems: it requires insights drawn from arenas ranging from software craftsmanship to unit testing, refactoring to test-driven development. Most programming books either discuss testing only briefly, or drill down on just one or two techniques, with little guidance on how to systematically verify code. Most testing books, on the other hand, focus on a specific testing process, without showing how to write software that can be easily and systematically tested. In Developer Testing, leading software engineering consultant Alexander Tarnowski strikes an optimal balance, integrating insights from multiple disciplines to help frustrated practitioners get better results. Drawing on his extensive experience as a mentor and trainer, he offers insights that help you accelerate through the typical software assurance learning curve, so you can progress far more rapidly. Tarnowski organizes his insights into "chunks" to help you quickly absorb key concepts, and focuses on technology-agnostic approaches you can keep using with any new language, platform, or toolset. The first guide to cover testing mindset, techniques, and applications from the developer's perspective, Developer Testing will help developers get what they really want: better code. -- Provided by publisher.
+Category: ['Computer programs']
+Country: IN
+Price: Not Available
+
+
+Sr no.2 Title: Java Programming for Android Developers For Dummies
+Subtitle: None
+Publised Date: 2016-11-07
+Description: Develop the next killer Android App using Java programming! Android is everywhere! It runs more than half the smartphones in the U.S.óand Java makes it go. If you want to cash in on its popularity by learning to build Android apps with Java, all the easy-to-follow guidance you need to get started is at your fingertips. Inside, you'll learn the basics of Java and grasp how it works with Android; then, you'll go on to create your first real, working application. How cool is that? The demand for Android apps isn't showing any signs of slowing, but if you're a mobile developer who wants to get in on the action, it's vital that you get the necessary Java background to be a success. With the help of Java Programming for Android Developers For Dummies, you'll quickly and painlessly discover the ins and outs of using Java to create groundbreaking Android appsóno prior knowledge or experience required! Get the know-how to create an Android program from the ground up Make sense of basic Java development concepts and techniques Develop the skills to handle programming challenges Find out how to debug your app Don't sit back and watch other developers release apps that bring in the bucks! Everything you need to create that next killer Android app is just a page away!
+Category: ['Computers']
+Country: IN
+Price: Not Available
+
+
+Sr no.3 Title: Ask Your Developer
+Subtitle: How to Harness the Power of Software Developers and Win in the 21st Century
+Publised Date: 2021-01-12
+Description: Jeff Lawson, developer turned CEO of Twilio (one of Bloomberg Businessweek's Top 50 Companies to Watch in 2021), creates a new playbook for unleashing the full potential of software developers in any organization, showing how to help management utilize this coveted and valuable workforce to enable growth, solve a wide range of business problems, and drive digital transformation. From banking and retail to insurance and finance, every industry is turning digital, and every company needs the best software to win the hearts and minds of customers. The landscape has shifted from the classic build vs. buy question, to one of build vs. die. Companies have to get this right to survive. But how do they make this transition? Software developers are sought after, highly paid, and desperately needed to compete in the modern, digital economy. Yet most companies treat them like digital factory workers without really understanding how to unleash their full potential. Lawson argues that developers are the creative workforce who can solve major business problems and create hit products for customersónot just grind through rote tasks. From Google and Amazon, to one-person online software companiesócompanies that bring software developers in as partners are winning. Lawson shows how leaders who build industry changing software products consistently do three things well. First, they understand why software developers matter more than ever. Second, they understand developers and know how to motivate them. And third, they invest in their developers' success. As a software developer and public company CEO, Lawson uses his unique position to bridge the language and tools executives use with the unique culture of high performing, creative software developers. Ask Your Developer is a toolkit to help business leaders, product managers, technical leaders, software developers, and executives achieve their common goalóbuilding great digital products and experiences. How to compete in the digital economy? In short: Ask Your Developer.
+Category: ['Business & Economics']
+Country: IN
+Price: 1643.55
+
+
+Sr no.4 Title: AWS Certified Developer Official Study Guide
+Subtitle: Associate (DVA-C01) Exam
+Publised Date: 2019-09-24
+Description: Foreword by Werner Vogels, Vice President and Corporate Technology Officer, Amazon The AWS exam has been updated. Your study guide should be, too. The AWS Certified Developer Official Study GuideñAssociate Exam is your ultimate preparation resource for the latest exam! Covering all exam objectives, this invaluable resource puts a team of AWS experts at your side with expert guidance, clear explanations, and the wisdom of experience with AWS best practices. Youíll master core services and basic architecture, and equip yourself to develop, deploy, and debug cloud-based applications using AWS. The AWS Developer certification is earned by those who demonstrate the technical knowledge and skill associated with best practices for building secure, reliable cloud-based applications using AWS technology. This book is your official exam prep companion, providing everything you need to know to pass with flying colors. Study the AWS Certified Developer Exam objectives Gain expert insight on core AWS services and best practices Test your understanding of key concepts with challenging chapter questions Access online study tools including electronic flashcards, a searchable glossary, practice exams, and more Cloud computing offers businesses the opportunity to replace up-front capital infrastructure expenses with low, variable costs that scale as they grow. This customized responsiveness has negated the need for far-future infrastructure planning, putting thousands of servers at their disposal as neededóand businesses have responded, propelling AWS to the number-one spot among cloud service providers. Now these businesses need qualified AWS developers, and the AWS certification validates the exact skills and knowledge theyíre looking for. When youíre ready to get serious about your cloud credentials, the AWS Certified Developer Official Study GuideñAssociate Exam is the resource you need to pass the exam with flying colors. NOTE: As of October 7, 2019, the accompanying code for hands-on exercises in the book is available for downloading from the secure Resources area in the online test bank. You'll find code for Chapters 1, 2, 11, and 12.
+Category: ['Computers']
+Country: IN
+Price: Not Available
+
+
+Sr no.5 Title: Android Development Patterns
+Subtitle: Best Practices for Professional Developers
+Publised Date: 2016-02-18
+Description: ìA must read for all developers that want to begin serious Android development.î óJustin Anderson, Freelance Android Developer ìFrom start to finish, this book contains a variety of great tips and insight into the most important attributes of Android design. This book will definitely be required reading for any of our future Android engineers.î óCameron Banga, Cofounder, 9magnets, LLC Thereís a downside to Androidís amazing openness and versatility: itís easy for developers to write code thatís inefficient, unreliable, insecure, or hard to maintain. In Android Development Patterns , enterprise Android developer Phil Dutson helps you leverage Android 5.0+ís amazing power without falling victim to those pitfalls. Dutson presents todayís most comprehensive set of patterns and procedures for building optimized, robust apps with Android 5.0+. First, Dutson guides you through establishing a highly efficient development environment and workflow, and testing your app to ensure that your code works just as you expect. Then, he walks through the modern best practices for structuring apps, using widgets and components, and working with views. You learn how to build apps that are easy to manage and update, deliver accurate and up-to-date information without wasting precious battery power, and take advantage of new hardware, such as Android Wear and Android TV. Dutson concludes by presenting powerful strategies for optimizing your apps and packaging them for distribution. Coverage includes Using testing to build more trustworthy, dependable, maintainable apps Understanding subtle but critical differences between Android and traditional Java programming Building consistent, modern user interfaces with views and layouts Leveraging the proven MVC pattern to cleanly organize logic Creating rich visual experiences with 3D graphics, animation, and media Simplifying capture and use of location data with the new Locations API Integrating optional hardware, such as Bluetooth, NFC, or USB Building better apps with Google Play Services Creating Android Wear notifications and apps Tuning and improving apps with Google Analytics Designing Android TV apps for the ìten foot viewî informit.com/aw https://github.com/dutsonpa/adp-files
+Category: ['Computers']
+Country: IN
+Price: Not Available
+
+
+Sr no.0 Title: Practices of an Agile Developer
+Subtitle: Working in the Real World
+Publised Date: 2006-04-04
+Description: These are the proven, effective agile practices that will make you a better developer. You'll learn pragmatic ways of approaching the development process and your personal coding techniques. You'll learn about your own attitudes, issues with working on a team, and how to best manage your learning, all in an iterative, incremental, agile style. You'll see how to apply each practice, and what benefits you can expect. Bottom line: This book will make you a better developer.
+Category: ['Computers']
+Country: IN
+Price: 1923.4
+
+
+Sr no.1 Title: Developer Testing
+Subtitle: Building Quality Into Software
+Publised Date: 2016
+Description: To build high-quality software, you need to write testable code. That's harder than it seems: it requires insights drawn from arenas ranging from software craftsmanship to unit testing, refactoring to test-driven development. Most programming books either discuss testing only briefly, or drill down on just one or two techniques, with little guidance on how to systematically verify code. Most testing books, on the other hand, focus on a specific testing process, without showing how to write software that can be easily and systematically tested. In Developer Testing, leading software engineering consultant Alexander Tarnowski strikes an optimal balance, integrating insights from multiple disciplines to help frustrated practitioners get better results. Drawing on his extensive experience as a mentor and trainer, he offers insights that help you accelerate through the typical software assurance learning curve, so you can progress far more rapidly. Tarnowski organizes his insights into "chunks" to help you quickly absorb key concepts, and focuses on technology-agnostic approaches you can keep using with any new language, platform, or toolset. The first guide to cover testing mindset, techniques, and applications from the developer's perspective, Developer Testing will help developers get what they really want: better code. -- Provided by publisher.
+Category: ['Computer programs']
+Country: IN
+Price: Not Available
+
+
+Sr no.2 Title: Java Programming for Android Developers For Dummies
+Subtitle: None
+Publised Date: 2016-11-07
+Description: Develop the next killer Android App using Java programming! Android is everywhere! It runs more than half the smartphones in the U.S.‚Äîand Java makes it go. If you want to cash in on its popularity by learning to build Android apps with Java, all the easy-to-follow guidance you need to get started is at your fingertips. Inside, you'll learn the basics of Java and grasp how it works with Android; then, you'll go on to create your first real, working application. How cool is that? The demand for Android apps isn't showing any signs of slowing, but if you're a mobile developer who wants to get in on the action, it's vital that you get the necessary Java background to be a success. With the help of Java Programming for Android Developers For Dummies, you'll quickly and painlessly discover the ins and outs of using Java to create groundbreaking Android apps‚Äîno prior knowledge or experience required! Get the know-how to create an Android program from the ground up Make sense of basic Java development concepts and techniques Develop the skills to handle programming challenges Find out how to debug your app Don't sit back and watch other developers release apps that bring in the bucks! Everything you need to create that next killer Android app is just a page away!
+Category: ['Computers']
+Country: IN
+Price: Not Available
+
+
+Sr no.3 Title: Ask Your Developer
+Subtitle: How to Harness the Power of Software Developers and Win in the 21st Century
+Publised Date: 2021-01-12
+Description: Jeff Lawson, developer turned CEO of Twilio (one of Bloomberg Businessweek's Top 50 Companies to Watch in 2021), creates a new playbook for unleashing the full potential of software developers in any organization, showing how to help management utilize this coveted and valuable workforce to enable growth, solve a wide range of business problems, and drive digital transformation. From banking and retail to insurance and finance, every industry is turning digital, and every company needs the best software to win the hearts and minds of customers. The landscape has shifted from the classic build vs. buy question, to one of build vs. die. Companies have to get this right to survive. But how do they make this transition? Software developers are sought after, highly paid, and desperately needed to compete in the modern, digital economy. Yet most companies treat them like digital factory workers without really understanding how to unleash their full potential. Lawson argues that developers are the creative workforce who can solve major business problems and create hit products for customers‚Äînot just grind through rote tasks. From Google and Amazon, to one-person online software companies‚Äîcompanies that bring software developers in as partners are winning. Lawson shows how leaders who build industry changing software products consistently do three things well. First, they understand why software developers matter more than ever. Second, they understand developers and know how to motivate them. And third, they invest in their developers' success. As a software developer and public company CEO, Lawson uses his unique position to bridge the language and tools executives use with the unique culture of high performing, creative software developers. Ask Your Developer is a toolkit to help business leaders, product managers, technical leaders, software developers, and executives achieve their common goal‚Äîbuilding great digital products and experiences. How to compete in the digital economy? In short: Ask Your Developer.
+Category: ['Business & Economics']
+Country: IN
+Price: 1643.55
+
+
+Sr no.4 Title: AWS Certified Developer Official Study Guide
+Subtitle: Associate (DVA-C01) Exam
+Publised Date: 2019-09-24
+Description: Foreword by Werner Vogels, Vice President and Corporate Technology Officer, Amazon The AWS exam has been updated. Your study guide should be, too. The AWS Certified Developer Official Study Guide‚ÄìAssociate Exam is your ultimate preparation resource for the latest exam! Covering all exam objectives, this invaluable resource puts a team of AWS experts at your side with expert guidance, clear explanations, and the wisdom of experience with AWS best practices. You‚Äôll master core services and basic architecture, and equip yourself to develop, deploy, and debug cloud-based applications using AWS. The AWS Developer certification is earned by those who demonstrate the technical knowledge and skill associated with best practices for building secure, reliable cloud-based applications using AWS technology. This book is your official exam prep companion, providing everything you need to know to pass with flying colors. Study the AWS Certified Developer Exam objectives Gain expert insight on core AWS services and best practices Test your understanding of key concepts with challenging chapter questions Access online study tools including electronic flashcards, a searchable glossary, practice exams, and more Cloud computing offers businesses the opportunity to replace up-front capital infrastructure expenses with low, variable costs that scale as they grow. This customized responsiveness has negated the need for far-future infrastructure planning, putting thousands of servers at their disposal as needed‚Äîand businesses have responded, propelling AWS to the number-one spot among cloud service providers. Now these businesses need qualified AWS developers, and the AWS certification validates the exact skills and knowledge they‚Äôre looking for. When you‚Äôre ready to get serious about your cloud credentials, the AWS Certified Developer Official Study Guide‚ÄìAssociate Exam is the resource you need to pass the exam with flying colors. NOTE: As of October 7, 2019, the accompanying code for hands-on exercises in the book is available for downloading from the secure Resources area in the online test bank. You'll find code for Chapters 1, 2, 11, and 12.
+Category: ['Computers']
+Country: IN
+Price: Not Available
+
+
+Sr no.5 Title: Android Development Patterns
+Subtitle: Best Practices for Professional Developers
+Publised Date: 2016-02-18
+Description: ‚ÄúA must read for all developers that want to begin serious Android development.‚Äù ‚ÄîJustin Anderson, Freelance Android Developer ‚ÄúFrom start to finish, this book contains a variety of great tips and insight into the most important attributes of Android design. This book will definitely be required reading for any of our future Android engineers.‚Äù ‚ÄîCameron Banga, Cofounder, 9magnets, LLC There‚Äôs a downside to Android‚Äôs amazing openness and versatility: it‚Äôs easy for developers to write code that‚Äôs inefficient, unreliable, insecure, or hard to maintain. In Android Development Patterns , enterprise Android developer Phil Dutson helps you leverage Android 5.0+‚Äôs amazing power without falling victim to those pitfalls. Dutson presents today‚Äôs most comprehensive set of patterns and procedures for building optimized, robust apps with Android 5.0+. First, Dutson guides you through establishing a highly efficient development environment and workflow, and testing your app to ensure that your code works just as you expect. Then, he walks through the modern best practices for structuring apps, using widgets and components, and working with views. You learn how to build apps that are easy to manage and update, deliver accurate and up-to-date information without wasting precious battery power, and take advantage of new hardware, such as Android Wear and Android TV. Dutson concludes by presenting powerful strategies for optimizing your apps and packaging them for distribution. Coverage includes Using testing to build more trustworthy, dependable, maintainable apps Understanding subtle but critical differences between Android and traditional Java programming Building consistent, modern user interfaces with views and layouts Leveraging the proven MVC pattern to cleanly organize logic Creating rich visual experiences with 3D graphics, animation, and media Simplifying capture and use of location data with the new Locations API Integrating optional hardware, such as Bluetooth, NFC, or USB Building better apps with Google Play Services Creating Android Wear notifications and apps Tuning and improving apps with Google Analytics Designing Android TV apps for the ‚Äúten foot view‚Äù informit.com/aw https://github.com/dutsonpa/adp-files
+Category: ['Computers']
+Country: IN
+Price: Not Available
+
+
+Sr no.6 Title: HTTP Developer's Handbook
+Subtitle: None
+Publised Date: 2003
+Description: HTTP is the protocol that powers the Web. As Web applications become more sophisticated, and as emerging technologies continue to rely heavily on HTTP, understanding this protocol is becoming more and more essential for professional Web developers. By learning HTTP protocol, Web developers gain a deeper understanding of the Web's architecture and can create even better Web applications that are more reliable, faster, and more secure. The HTTP Developer's Handbook is written specifically for Web developers. It begins by introducing the protocol and explaining it in a straightforward manner. It then illustrates how to leverage this information to improve applications. Extensive information and examples are given covering a wide variety of issues, such as state and session management, caching, SSL, software architecture, and application security.
+Category: ['Bilgisayar Aƒü Protokol√º']
+Country: IN
+Price: Not Available
+
+
+Sr no.7 Title: Mastering ENVY/Developer
+Subtitle: None
+Publised Date: 2001-03-19
+Description: This book is an in-depth exploration of ENVY/Developer, IBM's team programming environment for Smalltalk and Java. Written by well-known experts in the area, it presents both introductory and advanced topics with detailed examples. The first two parts of the book introduce the basics that a developer or development manager must know in order to use ENVY in a project setting, including the development process and the organization of applications. The third part covers advanced programming and customization, including detailed information on administering, troubleshooting, and extending the tools. This book covers VisualAge for Smalltalk, VisualWorks, and VisualAge Generator in detail. In addition, the concepts and management presented within the book apply to VisualAge for Java. Code examples, tools, and add-ons, are available on the supporting Web site.
+Category: ['Computers']
+Country: IN
+Price: Not Available
+
+
+Sr no.8 Title: Coder to Developer
+Subtitle: Tools and Strategies for Delivering Your Software
+Publised Date: 2004-05-07
+Description: "Two thumbs up" ‚ÄîGregory V. Wilson, Dr. Dobbs Journal (October 2004) No one can disparage the ability to write good code. At its highest levels, it is an art. But no one can confuse writing good code with developing good software. The difference‚Äîin terms of challenges, skills, and compensation‚Äîis immense. Coder to Developer helps you excel at the many non-coding tasks entailed, from start to finish, in just about any successful development project. What's more, it equips you with the mindset and self-assurance required to pull it all together, so that you see every piece of your work as part of a coherent process. Inside, you'll find plenty of technical guidance on such topics as: Choosing and using a source code control system Code generation tools--when and why Preventing bugs with unit testing Tracking, fixing, and learning from bugs Application activity logging Streamlining and systematizing the build process Traditional installations and alternative approaches To pull all of this together, the author has provided the source code for Download Tracker, a tool for organizing your collection of downloaded code, that's used for examples throughout this book. The code is provided in various states of completion, reflecting every stage of development, so that you can dig deep into the actual process of building software. But you'll also develop "softer" skills, in areas such as team management, open source collaboration, user and developer documentation, and intellectual property protection. If you want to become someone who can deliver not just good code but also a good product, this book is the place to start. If you must build successful software projects, it's essential reading.
+Category: ['Computers']
+Country: IN
+Price: Not Available
+
+
+Sr no.9 Title: A Day at Work with a Software Developer
+Subtitle: None
+Publised Date: 2015-12-15
+Description: This book is sure to grab the attention of readers who love coding and computers. Readers will enjoy learning about STEM through the lens of a career as a software developer. The book introduces readers to the creative minds who develop computer programs and applications. Readers will learn how software developers use STEM every day, and how someone can land a job in this exciting field. Engaging text is illustrated with bright images to allow readers to fully grasp the topic. Readers will love fun features, such as fact boxes and graphic organizers. This book is an excellent guide to computers, careers, and STEM concepts.
+Category: ['Juvenile Nonfiction']
+Country: IN
+Price: Not Available
+
